@@ -16,9 +16,9 @@
 title: NAKATANI Ichiro
 email: nobitahouse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  愛知県在住の社内SEです。
+  愛知県瀬戸市で東京の会社にリモートワークするプログラマです。
   エディタは Emacs 。
-  たまに Web や iOS アプリを開発します。
+  プライベートでも Web や iOS アプリを開発します。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ichiroc.in" # the base hostname & protocol for your site
 twitter_username: ichiroc
