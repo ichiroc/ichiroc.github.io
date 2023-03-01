@@ -12,16 +12,16 @@ var img = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAA
 
 var translationMap = {
   'ja': {
-    'gui.extension.openai2scratch.description': 'OpenAI の GPT-3 からの返答を得る。'
+    'gui.extension.gpt32scratch.description': 'OpenAI の GPT-3 からの返答を得る。'
   },
   'ja-Hira': {
-    'gui.extension.openai2scratch.description': 'OpenAI の GPT-3 からのへんとうをえる。'
+    'gui.extension.gpt32scratch.description': 'OpenAI の GPT-3 からのへんとうをえる。'
   }
 };
 var entry = {
   name: 'Gpt32Scratch',
   extensionId: 'gpt32scratch',
-  extensionURL: 'https://ichiroc.github.io/openai2scratch/openai2scratch.mjs',
+  extensionURL: 'https://ichiroc.github.io/gpt32scratch.mjs',
   collaborator: 'ichiroc',
   iconURL: img$1,
   insetIconURL: img,
